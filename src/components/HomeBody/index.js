@@ -18,7 +18,7 @@ import {
 
 import './index.css'
 
-const VideoCard = props => {
+const HomeBody = props => {
   const {videoDetails} = props
   const {
     thumbnailUrl,
